@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brinco: MyString
+  nome: MyString
+  situacao: MyString
+  sexo: MyString
+  brinco_mae: MyString
+  brinco_pai: MyString
+  raca: MyString
+  data_nascimento: 2023-08-24
+  data_prenhes: 2023-08-24
+  data_ultimo_parto: 2023-08-24
+
+two:
+  brinco: MyString
+  nome: MyString
+  situacao: MyString
+  sexo: MyString
+  brinco_mae: MyString
+  brinco_pai: MyString
+  raca: MyString
+  data_nascimento: 2023-08-24
+  data_prenhes: 2023-08-24
+  data_ultimo_parto: 2023-08-24
