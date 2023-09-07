@@ -1,11 +1,10 @@
 # CADASTRO DE BOVINOS LEITEIROS
 
-
 <p align="center">A aplicacao tem um formulario no front que faz a busca aqui na api para cadastrar bovinos no Bando de dados SQLite3 e devolve a lista com filtro.</p>
 
 ---
-## Instruções de Uso
 
+## Instruções de Uso
 
 1. Clone o repositório, acessando no terminal git clone <https://github.com/CristianeNazareth/cadastro_bovinos_api>
 2. Execute `bundle install` para instalar as dependências.
@@ -14,6 +13,7 @@
 5. Inicie o servidor Rails com `rails server` ou no meu caso `bin/rails server`. O rails está rodando na porta [http://localhost:3000](http://localhost:3000).
 
 ---
+
 ## Dependências
 
 - Rails 7.0.7
@@ -27,6 +27,7 @@
 Após fazer os testes, pode rodar os códigos rails db:drop, rails db:create e rails db:migrate para apagar, recriar e fazer as migracoes para o banco.
 
 ---
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -39,13 +40,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-Tabela de conteúdos
-=================
+# Tabela de conteúdos
 
 <p align="center">
  <a href="#-cadastro-de-bovinos">Sobre</a> •
  <a href="#-instrucoes-de-uso">Instruções de Uso</a> • 
- <a href="#-dependẽncias"> Dependẽncias</a> • 
+ <a href="#-dependencias"> Dependências</a> • 
  <a href="#-bando-de-dados">Banco de Dados</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autora">Autora</a> • 
@@ -58,6 +58,7 @@ Tabela de conteúdos
 </h4>
 
 ---
+
 #### Autora
 
 Cristiane Nazaret Assunção
@@ -72,9 +73,6 @@ Feito com ❤️ por Cristiane Assunção 👋🏽 [Entre em contato!](https://w
 
 ---
 
-##  Versões do README
+## Versões do README
 
-[Português 🇧🇷](./README.md) 
-
-
-
+[Português 🇧🇷](./README.md)

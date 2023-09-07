@@ -50,7 +50,7 @@ class BovinosController < ApplicationController
       render json: { error: @bovino.errors.full_messages.join }, status: :unprocessable_entity
       return
     end
-    render status: :ok
+    render json: { success: 'Bovino cadastrado!'}, status: :ok
   end
 
   private
